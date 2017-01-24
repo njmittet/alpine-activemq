@@ -2,7 +2,7 @@ from njmittet/alpine-openjdk:jre8
 
 MAINTAINER Nils Jørgen Mittet <njmittet@gmail.com>
 
-ENV ACTIVEMQ_VERSION 5.14.2
+ENV ACTIVEMQ_VERSION 5.14.3
 ENV ACTIVEMQ apache-activemq-$ACTIVEMQ_VERSION
 ENV ACTIVEMQ_HOME /opt/activemq
 
