@@ -1,15 +1,28 @@
 alpine-activemq
-==============
+===============
 [Docker](https://www.docker.com/) image for running [ActiveMQ](http://activemq.apache.org/). Based on [Alpine Linux](http://alpinelinux.org/). 
 
-[Image on Docker Hub](https://hub.docker.com/r/njmittet/alpine-activemq/).
+[Image on Docker Hub](https://hub.docker.com/r/trifonnt/alpine-activemq/).
+
+
+How to build Docker image
+-------------------------
+```shell
+docker build -t trifonnt/alpine-activemq:5.15.0 .
+```
+
+How to push to Docker hub
+-------------------------
+```shell
+docker push trifonnt/alpine-activemq:5.15.0
+```
 
 Usage
 -----
 Run ActiveMQ with default configuration:
-~~~~
-docker run -d -P njmittet/alpine-activemq
-~~~~
+```shell
+docker run -d -P trifonnt/alpine-activemq:5.15.0
+```
 
 Ports
 -----
