@@ -1,6 +1,6 @@
 alpine-activemq
 ==============
-[Docker](https://www.docker.com/) image for running [ActiveMQ] (http://activemq.apache.org/). Based on [Alpine Linux](http://alpinelinux.org/). 
+[Docker](https://www.docker.com/) image for running [ActiveMQ](http://activemq.apache.org/). Based on [Alpine Linux](http://alpinelinux.org/). 
 
 [Image on Docker Hub](https://hub.docker.com/r/njmittet/alpine-activemq/).
 
