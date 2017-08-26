@@ -21,7 +21,7 @@ Usage
 -----
 Run ActiveMQ with default configuration:
 ```shell
-docker run -d -P trifonnt/alpine-activemq:5.15.0
+docker run --name my-activemq -d -P -p 8161:8161 trifonnt/alpine-activemq:5.15.0
 ```
 
 Ports
@@ -34,4 +34,8 @@ Ports exposed by the image:
     61613 STOMP
     61614 WS  
     61616 JMS
+
+URLs
+----
+http://localhost:8161/
 
