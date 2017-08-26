@@ -1,4 +1,4 @@
-from njmittet/alpine-openjdk:jre8
+FROM njmittet/alpine-openjdk:jre8
 
 MAINTAINER Nils Jørgen Mittet <njmittet@gmail.com>
 
