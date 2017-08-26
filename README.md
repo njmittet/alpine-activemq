@@ -21,7 +21,7 @@ Usage
 -----
 Run ActiveMQ with default configuration:
 ```shell
-docker run --name my-activemq -d -P -p 8161:8161 trifonnt/alpine-activemq:5.15.0
+docker run --name my-activemq -d -P -p 8161:8161 -p 1883:1883 -p 5672:5672 -p 61613:61613 -p 61614:61614 -p 61616:61616 trifonnt/alpine-activemq:5.15.0
 ```
 
 Ports
