@@ -38,6 +38,7 @@ Ports exposed by the image:
 Application URLs
 ----------------
 admin/admin
+
 [http://localhost:8161/](http://localhost:8161/)
 
 
