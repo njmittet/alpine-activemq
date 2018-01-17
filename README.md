@@ -29,8 +29,8 @@ Ports
 Ports exposed by the image:
 
     8161  Web Console
-    1883  MQTT 
-    5672  AMQP 
+    1883  MQTT
+    5672  AMQP
     61613 STOMP
     61614 WS
     61616 JMS
