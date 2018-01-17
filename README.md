@@ -44,6 +44,8 @@ admin/admin
 
 [http://localhost:8161/](http://localhost:8161/)
 
+[http://localhost:8161/api/jolokia/](http://localhost:8161/api/jolokia/)
+
 
 Links
 -----
