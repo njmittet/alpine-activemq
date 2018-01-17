@@ -32,6 +32,6 @@ Ports exposed by the image:
     1883  MQTT 
     5672  AMQP 
     61613 STOMP
-    61614 WS  
+    61614 WS
     61616 JMS
 
