@@ -7,13 +7,7 @@ See the [image on Docker Hub](https://hub.docker.com/repository/docker/njmittet/
 
 ## Usage
 
-Pull the image from Docker Hub:
-
-```SH
-docker pull njmittet/alpine-activemq:5.16.2
-```
-
-Run ActiveMQ with default configuration:
+Run ActiveMQ with the default configuration:
 
 ```SH
 docker run -d -P njmittet/alpine-activemq:5.16.2
