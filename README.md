@@ -3,7 +3,7 @@
 A [Docker](https://www.docker.com/) image for running [ActiveMQ](http://activemq.apache.org/). Based on
 [njmittet/alpine-adoptopenjdk:16-jre-hotspot](https://hub.docker.com/repository/docker/njmittet/alpine-adoptopenjdk).
 
-[Image on Docker Hub](https://hub.docker.com/repository/docker/njmittet/alpine-activemq).
+See the [image on Docker Hub](https://hub.docker.com/repository/docker/njmittet/alpine-activemq).
 
 ## Usage
 
